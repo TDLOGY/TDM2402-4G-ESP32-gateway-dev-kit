@@ -31,11 +31,12 @@ __TDM2402-4G-ESP32-gateway-dev-kit :)__
 # Example code:
 - __[4G-MQTT](https://linhkienthuduc.com/huong-dan-su-dung-module-4g-voi-esp32-mqtt/)__ - Hướng dẫn sử dụng module 4G với ESP32 – MQTT
 
-- __[4G-MQTT](https://linhkienthuduc.com/lap-trinh-su-dung-module-sim-a7680c-a7670c-a7600c-sim7600ce-de-gui-tin-nhan-va-goi-dien/)__ - Hướng dẫn sử dụng module 4G với ESP32 để nhắn tin và gọi điện
+- __[4G-SMS](https://linhkienthuduc.com/lap-trinh-su-dung-module-sim-a7680c-a7670c-a7600c-sim7600ce-de-gui-tin-nhan-va-goi-dien/)__ - Hướng dẫn sử dụng module 4G với ESP32 để nhắn tin và gọi điện
 
-- __[4G-MQTT](https://github.com/TDLOGY/esp32_pppos_arrduino)__ - Hướng dẫn sử dụng module 4G với ESP32 – PPPoS
+- __[4G-PPPoS](https://github.com/TDLOGY/esp32_pppos_arrduino)__ - Hướng dẫn sử dụng module 4G với ESP32 – PPPoS
 
-- __[4G-MQTT](https://cdn.tdlogy.com/public/Datasheet/4G-5G/)__ - Datasheet các module SIM
+# 4G module datasheet
+- __[4G Module-Datasheet](https://cdn.tdlogy.com/public/Datasheet/4G-5G/)__ - Datasheet các module SIM
 
 # Hardware Dimension
 

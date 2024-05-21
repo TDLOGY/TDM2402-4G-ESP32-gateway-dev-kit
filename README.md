@@ -42,7 +42,10 @@ __TDM2402-4G-ESP32-gateway-dev-kit :)__
 
 ![Hardware Dimension](https://github.com/TDLOGY/TDM2402-4G-ESP32-gateway-dev-kit/blob/main/TDM2402-Dimension.jpg)
 
-# 3D Picture
+# 3D  
+
+ __[Download 3D model Here ](https://github.com/TDLOGY/TDM2402-4G-ESP32-gateway-dev-kit/blob/main/TDM2402-3D%20Model.step)__
+
 
 ![3D](https://github.com/TDLOGY/TDM2402-4G-ESP32-gateway-dev-kit/blob/main/3D%20TOP.png)
 
